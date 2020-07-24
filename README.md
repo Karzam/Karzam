@@ -1,4 +1,13 @@
-### Hi there 👋
+### 👋 Hi there
+
+
+👨‍💻 I'm a fullstack developer based in France 🇫🇷
+
+⚙️ I'm working with Typescript, Node.js, React.js & GraphQL
+
+💻 [You can find my blog here.](https://www.baptistemenard.com)
+
+👇 And some of my projects below
 
 <!--
 **Karzam/Karzam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
