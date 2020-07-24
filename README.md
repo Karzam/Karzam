@@ -3,7 +3,7 @@
 
 👨‍💻 I'm a fullstack developer based in France 🇫🇷
 
-⚙️ I'm working with Typescript, Node.js, React.js & GraphQL
+⚙️ Typescript, Node.js, React.js & GraphQL
 
 💻 [You can find my blog here.](https://www.baptistemenard.com)
 
