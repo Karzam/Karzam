@@ -1,4 +1,4 @@
-### 👋 Hi there
+### Hi there 👋
 
 
 👨‍💻 I'm a fullstack developer based in France 🇫🇷  
@@ -13,6 +13,6 @@
 </span>  
   </p>
 
-💬 [baptistemenard.com](https://www.baptistemenard.com)
+💬 [Writing tutorials and tech-related posts on my blog](https://www.baptistemenard.com)
 
 📫 bapmenard@gmail.com
