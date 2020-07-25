@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm [Baptiste](https://www.baptistemenard.com/about) 👋
 
 
 👨‍💻 I'm a fullstack developer based in France 🇫🇷  
