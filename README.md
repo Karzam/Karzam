@@ -3,23 +3,13 @@
 
 👨‍💻 I'm a fullstack developer based in France 🇫🇷
 
-⚙️ Typescript, Node.js, React.js & GraphQL
+<span>
+<img src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" alt="drawing" width="20"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/674px-React.svg.png" width="20"/>
+<img src="https://cdn.worldvectorlogo.com/logos/apollo-graphql-compact.svg" width="18"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1200px-GraphQL_Logo.svg.png" width="18"/>
+</span>
 
-💻 [You can find my blog here.](https://www.baptistemenard.com)
+💬 [baptistemenard.com](https://www.baptistemenard.com)
 
-👇 And some of my projects below
-
-<!--
-**Karzam/Karzam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 bapmenard@gmail.com
