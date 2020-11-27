@@ -1,9 +1,10 @@
-### Hi there, I'm [Baptiste](https://www.baptistemenard.com/about) 👋
+### I'm [Baptiste](https://www.baptistemenard.com/about) 👋
 
-👨‍💻 I'm a fullstack developer based in Landes, France 🇫🇷  
+I'm a fullstack developer based in Mont-de-Marsan (Landes)  
+With 3 years of experience in software development
 
 
-#### Languages & technologies
+#### Main stack
 
 <p>
   <span>
@@ -16,5 +17,4 @@
 </p>
 
 #### 💬 [Writing tutorials and tech-related posts on my blog](https://www.baptistemenard.com)
-
 #### 📫 bapmenard@gmail.com
