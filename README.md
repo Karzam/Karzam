@@ -1,7 +1,7 @@
 ### I'm [Baptiste](https://www.baptistemenard.com/about) 👋
 
 I'm a fullstack developer based in Mont-de-Marsan (Landes)  
-With 3 years of experience in software development
+With 3 years of professional software development
 
 
 #### Main stack
