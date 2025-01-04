@@ -1,7 +1,6 @@
-### I'm [Baptiste](https://www.baptistemenard.com/about) 👋
+### I'm Baptiste 👋
 
-I'm a fullstack developer based in France.
-7 years experience as a software developer in startups, mostly with JS technologies.
+I'm based in France, and I have 7 years experience as a software developer in startups.
 
-#### 💬 [Writing tutorials and tech-related posts on my blog](https://www.baptistemenard.com)
+####  [My Bento](https://bento.me/baptiste-menard)
 #### 📫 bapmenard@gmail.com
